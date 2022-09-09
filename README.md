@@ -2,7 +2,7 @@
 
 ## Overview
 
-Whac-a-mole game in vanilla JS.
+Whac-a-mole game in vanilla JS
 
 ### Concepts
 
