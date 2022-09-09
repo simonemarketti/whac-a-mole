@@ -1,4 +1,4 @@
-# whac-a-mole
+# Whac-a-mole
 
 ## Overview
 
@@ -18,8 +18,8 @@ Whac-a-mole game in vanilla JS.
 
 ### Links
 
-https://simonemarketti.github.io/mickey-mouse-quiz
+https://simonemarketti.github.io/whac-a-mole
 
 ### Notes
 
-This is my reinterpretation of the “Interactive Ninja Quiz” project of the Modern javascript course. (https://github.com/iamshaunjp/modern-javascript)
+Based on “Learn JavaScript by Building 7 Games - Full Course" by freeCodeCamp.org
